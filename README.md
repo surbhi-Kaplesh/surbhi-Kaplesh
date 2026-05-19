@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Surbhi Kaplesh 👋
 
-<!--
-**surbhi-Kaplesh/surbhi-Kaplesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Git & GitHub
+- REST APIs
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Advanced To-Do Application  
+🔹 Admin Dashboard Web App  
+🔹 React Portfolio Website
+
+## Currently Learning
+- Full Stack JavaScript
+- Node.js
+- Express.js
+- MongoDB
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/surbhi-kaplesh-414b16285
