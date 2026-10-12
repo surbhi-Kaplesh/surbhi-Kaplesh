@@ -5,11 +5,12 @@ Frontend Developer passionate about building responsive and user-friendly web ap
 ## Tech Stack
 - HTML5
 - CSS3
+- Tailwind CSS
 - JavaScript
 - React.js
+- Next.js
 - Git & GitHub
 - REST APIs
-- Python
 
 ## Projects
 🔹 Advanced To-Do Application  
@@ -18,6 +19,7 @@ Frontend Developer passionate about building responsive and user-friendly web ap
 
 ## Currently Learning
 - Full Stack JavaScript
+- React Native
 - Node.js
 - Express.js
 - MongoDB
